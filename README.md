@@ -1,9 +1,6 @@
 Hello, So sticky here with a mod for opera gx yea, that's weird right? well, its not shut up.
 
-
-
 --------------------------------------------------------------------------------------------------
-
 
 *Tutorial*
 -Get Opera GX If you don't have It yet
