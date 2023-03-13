@@ -1,4 +1,4 @@
-Hello, So sticky here with a mod for opera gx yea, that's weird right? well, its not shut up. (Please Display The Source Blob for a better expirience)
+Hello, So sticky here with a mod for opera gx yea, that's weird right? well, its not shut up.
 
 --------------------------------------------------------------------------------------------------
 
@@ -10,3 +10,11 @@ Hello, So sticky here with a mod for opera gx yea, that's weird right? well, its
 -Re - Enter Opera GX
 -Press On the load unpacked button on the same extensions page as earlier
 -enjoy!
+
+-------------------------------------------------------------------------------------------------
+
+*Features*
+-Custom Background Audio (Pipi Caca - Instumental By Sticky)
+-Custom SFX Such As: New Tab, Limiter On, Limiter Off, Toggle Switch, Tab Slash, Tab Close and Click
+-Custom Theme with all the primary collors of the sticky theme strongly featuring Black, White and Blue.
+
